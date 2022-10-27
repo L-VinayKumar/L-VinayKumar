@@ -25,7 +25,7 @@ Passionate about working with Datasets.
 
 🛠 Started as Software Test Engineer
 
-👩‍💻 I'm currently working on Supervised learning.
+👩‍💻 I'm currently Training on Supervised learning.
 
 🧠 I'm currently learning Data Analyst courses.
 

@@ -18,7 +18,8 @@ Passionate about working with Datasets.
 1. Python
 2. MySQL
 3. Tableau
-4. Microsoft Excel
+4. Power BI
+5. Microsoft Excel
 
 
 ## Summary Of My Journey

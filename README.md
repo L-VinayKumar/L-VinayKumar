@@ -28,7 +28,7 @@ Passionate about working with Datasets.
 
 🛠 Started as Software Test Engineer
 
-🧠 I'm currently learning Data Analyst courses.
+🧠 I'm currently learning Data Analyst, Data Engineer courses.
 
 👩‍💻 Building my Portfolio.
 

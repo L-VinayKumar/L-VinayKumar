@@ -17,11 +17,14 @@ Passionate about working with Datasets.
 ## 🛠 Skills
 1. Python
 2. MySQL
-3. Google BigQuery
-4. Power BI
-5. Tableau
-6. Microsoft Excel
-7. Google Sheets
+3. Hadoop
+4. Big Data
+5. PySpark
+6. Google BigQuery
+7. Power BI
+8. Tableau
+9. Microsoft Excel
+10. Google Sheets
 
 
 ## Summary Of My Journey
